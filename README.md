@@ -9,10 +9,12 @@ The corpus is hosted on Google Drive and can be accessed through this link: [Goo
 
 ## How to Use
 To use the publicly accessible Arabic AraFast corpus in Google Colab, you'll first need to add the corpus to your own Google Drive.
-
 Adding the Corpus to Your Google Drive:
 1-	Open the Shared Folder: Go to the shared corpus link.
 2-	Add to Your Drive: Right-click on the folder or use the dropdown menu and select 'Add shortcut to Drive'. Choose a location in your drive to create a shortcut to the folder.
+
+## Note
+This corpus may need more or special pre-processing steps to meet your requirement or goal. 
 
 ## License
 This corpus is released under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). Please see the license details: (https://creativecommons.org/licenses/by-sa/4.0/deed.en) for more information.
