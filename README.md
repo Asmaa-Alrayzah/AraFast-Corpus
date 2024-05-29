@@ -5,11 +5,10 @@ This corpus is primarily aimed at to offer a free Arabic corpus to be used in a 
 
 ## Accessing the Corpus
 The corpus is hosted on Google Drive and can be accessed through this link: [Google Drive Link ](https://drive.google.com/drive/folders/1ewClbL60HWcGT1AHmulb9SGSZ-DzjR5m?usp=share_link). <br> 
-The total size of the corpus is approximately 112GB, available in TXT. Format.
+The total size of the corpus is approximately 48GB, which is permitted for publication, and all files are available in TXT format.
 
 ## Notes:
 1- About 65GB of the OSCAR corpus is not published. Please ask the OSCAR organization for permission, and apply the same process of Algorithm 1 in our paper "AraFast: Developing and Evaluating a Comprehensive Modern Standard Arabic Corpus for Enhanced Natural Language Processing" to obtain the same result.<br>
-2- This corpus may need more special pre-processing steps to meet your requirements or goal. 
 
 ## How to Use
 To use the publicly accessible Arabic AraFast corpus in Google Colab, you'll first need to add the corpus to your own Google Drive. <br>
