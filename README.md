@@ -24,15 +24,15 @@ This corpus is released under Creative Commons Attribution-ShareAlike 4.0 Intern
 If you use this work in your research, please cite it using the following BibTeX entry:
 
 ```bibtex
-@article{YourLastName2023,
-  title={...},
-  author={...},
-  journal={...},
-  volume={...},
-  number={...},
-  pages={...},
-  year={2023},
-  publisher={...}
+@article{Alrayzah2024,
+  title={raFast: Developing and Evaluating a Comprehensive Modern Standard Arabic Corpus for Enhanced Natural Language Processing},
+  author={Alrayzah A, Alsolami F, Saleh M.},
+  journal={Applied Sciences},
+  volume={14},
+  number={12:5294},
+  pages={1-27},
+  year={2024},
+  doi={https://doi.org/ 10.3390/app14125294}
 }
 ```
 
